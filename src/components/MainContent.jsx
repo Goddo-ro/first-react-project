@@ -18,14 +18,14 @@ export default function Page() {
                 <p>
                     I am a fullstack developer width a particular interest in making things
                     simple and automating daily tasks. I try to keep up with security and 
-                    best practices, and am always looking for new things to learn
+                    best practices, and am always looking for new things to learn.
                 </p>
             </section>
             <section className="interests">
                 <h2>Interests</h2>
                 <p>
                     Anime fan, graduate of St. Petersburg University of Anime Arts. 
-                    Reader. Internet fanatic. English learner. Coffee fanatic
+                    Reader. Internet fanatic. English learner. Coffee fanatic.
                 </p>
             </section>
         </main>
