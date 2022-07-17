@@ -1,6 +1,7 @@
 :root {
     --white-color: #ffffff;
     --orange-color: #F3BF99;
+    --paragraph-color: #DCDCDC;
     --main-bcg: #1A1B21;
 }
 
@@ -52,20 +53,20 @@ main {
 
 .main--h3 {
     margin-top: 0;
-    margin-bottom: 4px;
     font-weight: 200;
     color: var(--orange-color);
 }
 
 .main--small {
     margin-top: 0;
-    margin-bottom: 14px;
+    margin-bottom: 30px;
     font-weight: 200;
 }
 
 .main--btn {
     font-size: 1.25rem;
-    margin: 0;
+    margin-top: 0;
+    margin-bottom: 40px;
     width: 100%;
     border-radius: 16px;
     border: none;
@@ -80,4 +81,17 @@ main {
 
 .main--btn p {
     margin-left: 10px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+section h2 {
+    margin-bottom: 10px;
+}
+
+section p {
+    margin: 0;
+    color: var(--paragraph-color);
 }
